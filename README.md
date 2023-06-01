@@ -1,3 +1,3 @@
 # hello
 This is manual
-edited in Laptop
+edited in Lap
