@@ -1,6 +1,0 @@
-1st line
-<<<<<<< HEAD
-2nd line windows
-=======
-3rd line linux
->>>>>>> c8a2b2e9f2e019231f313667acf07cd717ab2f65
